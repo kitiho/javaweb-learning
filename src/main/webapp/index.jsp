@@ -9,5 +9,9 @@
 </h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
+<%
+    String str = "hello world";
+    System.out.println(str);
+%>
 </body>
 </html>
